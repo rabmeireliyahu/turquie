@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Rab Beto Turquie</title>
+    <description>Shiurim de Rab Beto Turquie. Otzar HaTorah - אוצר התורה</description>
+    <link>https://rabmeireliyahu.github.io/turquie</link>
+    <language>es</language>
+    <itunes:author>Rab Beto Turquie</itunes:author>
+    <itunes:owner><itunes:name>Rab Beto Turquie</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/turquie/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>
