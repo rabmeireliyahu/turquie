@@ -433,5 +433,32 @@
       <itunes:duration>00:54:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Beto Turquie · Toledot 1</title>
+      <description>Rab Beto Turquie · Toledot 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Toledot%201.mp3" length="45940653" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Toledot 1.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 05:40:09 -0000</pubDate>
+      <itunes:duration>00:47:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Toledot 2</title>
+      <description>Rab Beto Turquie · Toledot 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Toledot%202.mp3" length="44068653" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Toledot 2.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 05:40:12 -0000</pubDate>
+      <itunes:duration>00:45:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Toledot 3</title>
+      <description>Rab Beto Turquie · Toledot 3</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Toledot%203.mp3" length="44127789" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Toledot 3.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 05:40:12 -0000</pubDate>
+      <itunes:duration>00:45:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
