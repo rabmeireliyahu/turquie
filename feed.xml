@@ -460,5 +460,41 @@
       <itunes:duration>00:45:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Beto Turquie · Toledot 4</title>
+      <description>Rab Beto Turquie · Toledot 4</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Toledot%204.mp3" length="55336749" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Toledot 4.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 08:15:00 -0000</pubDate>
+      <itunes:duration>00:57:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Toledot 4 (2)</title>
+      <description>Rab Beto Turquie · Toledot 4 (2)</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Toledot%204%20%282%29.mp3" length="55336749" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Toledot 4 (2).mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 08:15:01 -0000</pubDate>
+      <itunes:duration>00:57:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Vayetze 1</title>
+      <description>Rab Beto Turquie · Vayetze 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vayetze%201.mp3" length="56980269" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vayetze 1.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 08:15:01 -0000</pubDate>
+      <itunes:duration>00:59:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Vayetze 1 (2)</title>
+      <description>Rab Beto Turquie · Vayetze 1 (2)</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vayetze%201%20%282%29.mp3" length="56980269" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vayetze 1 (2).mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 08:15:01 -0000</pubDate>
+      <itunes:duration>00:59:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
