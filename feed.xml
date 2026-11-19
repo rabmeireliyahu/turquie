@@ -496,5 +496,14 @@
       <itunes:duration>00:59:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Beto Turquie · Vayetze 3</title>
+      <description>Rab Beto Turquie · Vayetze 3</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vayetze%203.mp3" length="45229868" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vayetze 3.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 19:14:04 -0000</pubDate>
+      <itunes:duration>00:47:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
