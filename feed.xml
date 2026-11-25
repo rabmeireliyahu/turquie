@@ -559,5 +559,14 @@
       <itunes:duration>00:55:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Shiur · Rab Beto Turquie 25-11-2026</title>
+      <description>Shiur · Rab Beto Turquie 25-11-2026</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Shiur%20%C2%B7%20Rab%20Beto%20Turquie%2025-11-2026.mp3" length="53413292" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shiur · Rab Beto Turquie 25-11-2026.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 08:18:01 -0000</pubDate>
+      <itunes:duration>00:55:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
