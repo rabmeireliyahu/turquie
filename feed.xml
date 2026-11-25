@@ -505,5 +505,59 @@
       <itunes:duration>00:47:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Beto Turquie · Vayetze 2</title>
+      <description>Rab Beto Turquie · Vayetze 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vayetze%202.mp3" length="19507628" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vayetze 2.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 08:17:59 -0000</pubDate>
+      <itunes:duration>00:20:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Vayetze 3 (2)</title>
+      <description>Rab Beto Turquie · Vayetze 3 (2)</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vayetze%203%20%282%29.mp3" length="45229868" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vayetze 3 (2).mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 08:18:00 -0000</pubDate>
+      <itunes:duration>00:47:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Vayetze 4</title>
+      <description>Rab Beto Turquie · Vayetze 4</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vayetze%204.mp3" length="28599980" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vayetze 4.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 08:18:00 -0000</pubDate>
+      <itunes:duration>00:29:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Vishlah 1</title>
+      <description>Rab Beto Turquie · Vishlah 1</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vishlah%201.mp3" length="53087660" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vishlah 1.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 08:18:00 -0000</pubDate>
+      <itunes:duration>00:55:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Resumen vaishlaj</title>
+      <description>Rab Beto Turquie · Resumen vaishlaj</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Resumen%20vaishlaj.mp3" length="45922220" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Resumen vaishlaj.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 08:18:01 -0000</pubDate>
+      <itunes:duration>00:47:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Beto Turquie · Vaishlaj 2</title>
+      <description>Rab Beto Turquie · Vaishlaj 2</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vaishlaj%202.mp3" length="53226668" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vaishlaj 2.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 08:18:01 -0000</pubDate>
+      <itunes:duration>00:55:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
