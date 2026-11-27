@@ -577,5 +577,14 @@
       <itunes:duration>00:57:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rab Beto Turquie · Vaishlaj 4</title>
+      <description>Rab Beto Turquie · Vaishlaj 4</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-turquie/Rab%20Beto%20Turquie%20%C2%B7%20Vaishlaj%204.mp3" length="50029100" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rab Beto Turquie · Vaishlaj 4.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 19:17:36 -0000</pubDate>
+      <itunes:duration>00:52:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
